@@ -21,7 +21,7 @@ Active4j-flow是基于SpingBoot2.0与activiti7.x开发的一套工作流程管�
 - 讨论加群：qq群①：203802692   qq群②：773872959
 - 演示地址：[http://www.active4j.com:9006/flow](http://www.active4j.com:9006/jsp "http://www.active4j.com:9006/flow")
 - 官方网站：[www.active4j.com](http://www.active4j.com "www.active4j.com")
-- 文档地址：[http://www.active4j.com/doc](http://www.active4j.com/doc "http://www.active4j.com/doc")
+- 文档地址：[http://www.active4j.com/doc.html](http://www.active4j.com/doc.html "http://www.active4j.com/doc.html")
 
 # 生态系统
 |  版本 |  地址 |
