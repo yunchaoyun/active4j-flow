@@ -33,7 +33,7 @@
 	
 	<select id="findMenuByUserId" resultType="com.active4j.hr.system.entity.SysFunctionEntity">
 		SELECT
-			sm.ID, sm.ICON, sm.URL, sm.NAME, sm.ORDER_NO, sm.PARENT_ID
+			DISTINCT sm.ID, sm.ICON, sm.URL, sm.NAME, sm.ORDER_NO, sm.PARENT_ID
 		FROM
 			sys_user su,
 			sys_user_role ur,
